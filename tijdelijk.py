@@ -15,4 +15,3 @@ for i in el:
         print(i.upper())
     else:
         print(i.lower())
-        "opnieuw"
